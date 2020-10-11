@@ -1,5 +1,7 @@
 # COVID19-Global-Forecasting-Kaggle-Competition
 
+![covid](https://user-images.githubusercontent.com/69224996/95669634-cae45300-0b37-11eb-9999-a0b08268c127.png)
+
 **Kaggle is launching a COVID-19 forecasting challenge to help answer a subset of the National Academies of Sciences, Engineering, and Medicine’s (NASEM) and the World Health Organization (WHO) questions on COVID-19.**
 
 **In this kernal, First, we will perform data analysis to identify the factors that impact the transmission rate of COVID-19. Afterwards, we will analyze the the effect of COVID-19 in India.**

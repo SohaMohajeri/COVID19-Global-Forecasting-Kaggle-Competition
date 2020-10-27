@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# COVID19-Global-Forecasting-Kaggle-Competition
+# COVID19 Global Forecasting Kaggle Competition
 </div>
 
 

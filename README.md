@@ -11,8 +11,6 @@
 
 <br />
 
-
-
 <div align="justify">
 
 Kaggle is launching a COVID-19 forecasting challenge to help answer a subset of the National Academies of Sciences, Engineering, and Medicine’s (NASEM) and the World Health Organization (WHO) questions on COVID-19.

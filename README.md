@@ -19,7 +19,6 @@ In this challenge, we will be predicting the daily number of confirmed COVID19 c
 
 We will use COVID19 Global Forecasting (Week 5) dataset including the train, test and submission csv files. First, we will perform data analysis to identify the factors that impact the transmission rate of COVID-19. Afterwards, we will analyze the the effect of COVID-19 in India. Afterwards, we will use XGBoost and Random Forest regressor as ensemble learning models as well as to predict the daily number of confirmed COVID19 cases as well as the number of resulting fatalities in various locations across the world.
 
-
 </div>
 
 

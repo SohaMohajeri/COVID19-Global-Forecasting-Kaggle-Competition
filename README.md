@@ -21,5 +21,3 @@ We will use COVID19 Global Forecasting (Week 5) dataset including the train, tes
 
 </div>
 
-
-
